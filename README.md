@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amirhossein Veysi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on NASA
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on amazing open source projects
 - 📫 How to reach me? just email me at: amirhossein_veysi@yahoo.com
 
 <!---
