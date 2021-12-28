@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate **amazing open source projects**
 
+- My blog [https://dev.to/amirhossein_veysi/](https://dev.to/amirhossein_veysi/)
+
 - 💬 Ask me about **html, css, sass, javascript, jquery, react, typescript, php**
 
 - 📫 How to reach me **amirhossein_veysi@yahoo.com**
