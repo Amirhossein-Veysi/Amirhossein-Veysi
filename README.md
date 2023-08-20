@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Veysi</h1>
 <h3 align="center">A creative frontend developer from Iran</h3>
 
-- 🔭 I’m currently working on [Hoko](https://hoko.ir/)
+- 🔭 I’m currently free as wind!
 
 - 🌱 I’m currently learning **how to live**
 
